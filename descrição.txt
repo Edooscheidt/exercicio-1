@@ -1,1 +1,3 @@
 Olá, meu nome é Eduardo Henrique Scheidt.
+tenho 22 anos;
+Atualmente estudo Desenvolvimento de Sistemas no SENAI.
